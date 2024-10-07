@@ -1,0 +1,2 @@
+a='sasank'
+print(a)
