@@ -25,6 +25,11 @@ print(a**b)#4**2
 print(a/b)#4/2
 print(a//b)#4//2  eleminate decimal value from op
 print(a%b)# reminder
-
+#some Questions
+a=4.5
+b=2
+print(a/b)
+print(a//b)
+print(a%b)
 
 
