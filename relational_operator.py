@@ -13,4 +13,10 @@ print(a>b)
 a='sasank'
 b='lucky'
 print(a>b)#it is done by comparing first charecter of cdt
+a=12
+b=12
+print(a==b)
+print(a!=b)
+print(a>=b)
+print(a<=b)
 
