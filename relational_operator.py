@@ -1,5 +1,6 @@
 """
-Relational Operator:
+Relational Operator
+=====================
 1.Relational operator is used for returning boolean value as output,
 2.these relational operator is used in conditional statements.
 3.num to num it compares easily as compare to cdt to cdt.

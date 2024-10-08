@@ -2,7 +2,8 @@
 1. Operators are used for performing some operation on operands.
 2. In python we have 7 types of operator such as Assignment operator,Arithmetic operator,logical operaror,Relational operator,
    Bitwise operator,membership operator,identity operator.
-
+Arithmetic Operator
+====================
 
 """
 a='sasank'
