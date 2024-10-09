@@ -46,7 +46,7 @@ b=-6
 print(a is b) #True
 
 k=400
-def fun():
+def fun():# python constant folding optimaization still running
     n=400
     return (n is k)
 f=fun()
