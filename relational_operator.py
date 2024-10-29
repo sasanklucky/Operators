@@ -20,4 +20,6 @@ print(a==b)
 print(a!=b)
 print(a>=b)
 print(a<=b)
+print([12,36]>[45,25])#it will compare the first charecter of given list
+
 
